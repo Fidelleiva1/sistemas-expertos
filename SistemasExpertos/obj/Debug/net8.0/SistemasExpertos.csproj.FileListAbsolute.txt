@@ -1,0 +1,14 @@
+C:\Users\wmarroquin\source\repos\SistemasExpertos\SistemasExpertos\bin\Debug\net8.0\SistemasExpertos.exe
+C:\Users\wmarroquin\source\repos\SistemasExpertos\SistemasExpertos\bin\Debug\net8.0\SistemasExpertos.deps.json
+C:\Users\wmarroquin\source\repos\SistemasExpertos\SistemasExpertos\bin\Debug\net8.0\SistemasExpertos.runtimeconfig.json
+C:\Users\wmarroquin\source\repos\SistemasExpertos\SistemasExpertos\bin\Debug\net8.0\SistemasExpertos.dll
+C:\Users\wmarroquin\source\repos\SistemasExpertos\SistemasExpertos\bin\Debug\net8.0\SistemasExpertos.pdb
+C:\Users\wmarroquin\source\repos\SistemasExpertos\SistemasExpertos\obj\Debug\net8.0\SistemasExpertos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wmarroquin\source\repos\SistemasExpertos\SistemasExpertos\obj\Debug\net8.0\SistemasExpertos.AssemblyInfoInputs.cache
+C:\Users\wmarroquin\source\repos\SistemasExpertos\SistemasExpertos\obj\Debug\net8.0\SistemasExpertos.AssemblyInfo.cs
+C:\Users\wmarroquin\source\repos\SistemasExpertos\SistemasExpertos\obj\Debug\net8.0\SistemasExpertos.csproj.CoreCompileInputs.cache
+C:\Users\wmarroquin\source\repos\SistemasExpertos\SistemasExpertos\obj\Debug\net8.0\SistemasExpertos.dll
+C:\Users\wmarroquin\source\repos\SistemasExpertos\SistemasExpertos\obj\Debug\net8.0\refint\SistemasExpertos.dll
+C:\Users\wmarroquin\source\repos\SistemasExpertos\SistemasExpertos\obj\Debug\net8.0\SistemasExpertos.pdb
+C:\Users\wmarroquin\source\repos\SistemasExpertos\SistemasExpertos\obj\Debug\net8.0\SistemasExpertos.genruntimeconfig.cache
+C:\Users\wmarroquin\source\repos\SistemasExpertos\SistemasExpertos\obj\Debug\net8.0\ref\SistemasExpertos.dll
